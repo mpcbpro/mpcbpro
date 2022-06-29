@@ -22,6 +22,8 @@
 - 삼성 청년 소프트웨어 아카데미 6기 교육과정 진행중(2021.07~ 현재)
   - 공통 프로젝트(펫투닥터) 프로젝트 우수상 수상
   - 자율 프로젝트(바구니) 프로젝트 우수상 수상
+### 💬 CONTACT
+mpcbpro@gamil.com
 <!--
 **mpcbpro/mpcbpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
